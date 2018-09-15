@@ -1,5 +1,6 @@
 import json
 import re
+import getpass
 
 from poe import Client
 
